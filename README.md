@@ -58,7 +58,7 @@ It allows hospitals, blood banks, doctors, and patients to efficiently track blo
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/BloodDonorManagementSystem.git
+   git clone https://github.com/MARRIYAM07/BloodDonorManagementSystem.git
 2. Navigate to the project folder:
    cd BloodDonorManagementSystem
 3. Install required Python libraries:
