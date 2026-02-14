@@ -1,4 +1,3 @@
-# BloodDonorManagementSystem
 # Blood Donation Management Website
 
 A web application designed to make the blood donation process more **transparent, organized, and efficient**.  
